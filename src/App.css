@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+.chatBox {
+  /* min-width: 20vw; */
+  width: 20vw;
+  min-height: 30vh;
+  margin: auto;
+  background: #aaa;
+}
+
+#chat {
+  text-align: center;
+  border: solid 1px #000;
+}
